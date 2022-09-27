@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav Zagade</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-
+<br>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/83586637/192469440-bac8aca5-3f21-46f8-89d6-5fa0a02aa018.png"></img>
 
 - 🌱 I’m currently learning **MEAN Stack**
@@ -14,6 +14,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/17IG2dwNq_DKICdyMYzx1s3mMv1EBOMI9/view?usp=sharing](https://drive.google.com/file/d/17IG2dwNq_DKICdyMYzx1s3mMv1EBOMI9/view?usp=sharing)
 
 - ⚡ Fun fact **I am Mechanical Engineer (Mech engg's can do anything)**
+<br>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
