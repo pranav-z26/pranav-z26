@@ -7,12 +7,12 @@
 
 - 💬 Ask me about **JavaScript, Angular, NodeJS, MongoDB**
 
-- 📫 How to reach me **pranavzagade2600@gmail.com**
+- 📫 Reach to me **pranavzagade2600@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17IG2dwNq_DKICdyMYzx1s3mMv1EBOMI9/view?usp=sharing](https://drive.google.com/file/d/17IG2dwNq_DKICdyMYzx1s3mMv1EBOMI9/view?usp=sharing)
 
 - ⚡ Fun fact **I am Mechanical Engineer (Mech engg's can do anything)**
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zagadepranav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zagadepranav" height="30" width="40" /></a>
