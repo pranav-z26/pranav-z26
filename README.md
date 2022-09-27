@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pranav Zagade</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
+<img src="![image](https://user-images.githubusercontent.com/83586637/192469440-bac8aca5-3f21-46f8-89d6-5fa0a02aa018.png)"></img>
+
 - 🌱 I’m currently learning **MEAN Stack**
 
 - 👯 I’m looking to collaborate on **Angular, NodeJS Projects**
