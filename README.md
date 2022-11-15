@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav Zagade</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<h3 align="center"><a href="https://pranav-z26.github.io/portfolio">💻 https://pranav-z26.github.io/portfolio</a></h3>
+<h6 align="center"><a href="https://pranav-z26.github.io/portfolio">💻 https://pranav-z26.github.io/portfolio</a></h6>
 <br>
 <img align="right" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 
