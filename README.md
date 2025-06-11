@@ -4,11 +4,12 @@
 <br>
 <img align="right" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🔭 Currently working as a **Frontend Developer (Next.js, TypeScript)**
 
-- 👯 I’m looking to collaborate on **Angular, NodeJS Projects**
+- 👯 I’m looking to collaborate on **NextJs, ReactJs, NodeJS Projects**
 
-- 💬 Ask me about **JavaScript, Angular, NodeJS, MongoDB**
+- 💬 Ask me about **React, Next, TypeScript, Redux, Styled Components, Angular, NodeJS, MongoDB**
+- 🌐 Known as a **go-to developer** for problem-solving & defect resolution  
 
 - 📫 Reach to me **pranavzagade2600@gmail.com**
 
