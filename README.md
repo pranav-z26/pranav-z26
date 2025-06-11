@@ -9,7 +9,11 @@
 - 👯 I’m looking to collaborate on **NextJs, ReactJs, NodeJS Projects**
 
 - 💬 Ask me about **React, Next, TypeScript, Redux, Styled Components, Angular, NodeJS, MongoDB**
+- 🛠 Integrated **SonarQube** for code quality & implemented **unit testing** in enterprise-grade Next.js apps  
+- 🌟 Received multiple awards: **Inspiring Performance**, **Dazzling Debutant**, **Winner Circle (10+)**, and **Client Appreciation Certificate**  
+- 🧠 Constantly learning **Redux**, **system design**, and **frontend performance optimizations** 
 - 🌐 Known as a **go-to developer** for problem-solving & defect resolution  
+
 
 - 📫 Reach to me **pranavzagade2600@gmail.com**
 
