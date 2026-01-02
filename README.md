@@ -4,14 +4,13 @@
 <br>
 <img align="right" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 
-- 🔭 Currently working as a **Frontend Developer (Next.js, TypeScript)**
+- 🔭 Currently working as a **Full Stack Developer (MERN)**
 
 - 👯 I’m looking to collaborate on **NextJs, ReactJs, NodeJS Projects**
 
-- 💬 Ask me about **React, Next, TypeScript, Redux, Styled Components, Angular, NodeJS, MongoDB**
-- 🛠 Integrated **SonarQube** for code quality & implemented **unit testing** in enterprise-grade Next.js apps  
+- 💬 Ask me about **React, Next, TypeScript, Redux, Styled Components, Angular, NodeJS, Express, MongoDB, Github Actions, Concourse, Jenkins**
 - 🌟 Received multiple awards: **Inspiring Performance**, **Dazzling Debutant**, **Winner Circle (10+)**, and **Client Appreciation Certificate**  
-- 🧠 Constantly learning **Redux**, **system design**, and **frontend performance optimizations** 
+- 🧠 Constantly learning **Devops**, **system design**, and ** performance optimizations** 
 - 🌐 Known as a **go-to developer** for problem-solving & defect resolution  
 
 
