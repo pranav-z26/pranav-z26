@@ -4,9 +4,9 @@
 <br>
 <img align="right" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 
-- 🔭 Currently working as a **Full Stack Developer (MERN)**
+- 🔭 Currently working as a **Full Stack Developer**
 
-- 👯 I’m looking to collaborate on **NextJs, ReactJs, NodeJS Projects**
+- 👯 I’m looking to collaborate on **NextJs, ReactJs, NodeJS, AWS, Docker, Kubernetes, Terraform, Ansible, Amazon Bedrock Projects**
 
 - 💬 Ask me about **React, Next, TypeScript, Redux, Styled Components, Angular, NodeJS, Express, MongoDB, Github Actions, Concourse, Jenkins**
 - 🌟 Received multiple awards: **Inspiring Performance**, **Dazzling Debutant**, **Winner Circle (10+)**, and **Client Appreciation Certificate**  
